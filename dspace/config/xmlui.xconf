@@ -212,6 +212,7 @@
         <theme name="Dryland" handle="10568/51670" path="Dryland/"/>
         <theme name="TechnicalConsortium" handle="10568/25209" path="TechnicalConsortium/"/>
         <theme name="FeedTheFuture" handle="10568/35730" path="FeedTheFuture/"/>
+        <theme name="IITA" handle="10568/63600" path="IITA/"/>
 
         <!--Default theme for the top-level CGSPACE-->
         <theme name="CGSPACE" regex=".*" path="CGSPACE/"/>
